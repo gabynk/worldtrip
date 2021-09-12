@@ -1,0 +1,88 @@
+{
+    "continents": [
+        {
+            "id": "europe",
+            "uid": "continent-europe",
+            "image": "https://images.unsplash.com/photo-1496568816309-51d7c20e3b21?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+            "data": {
+                "title": "Europa",
+                "subtitle": "O continente mais antigo.",
+                "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+                "countryNumbers": 50,
+                "mostUsedLanguages": 60,
+                "cityNumbers": 27,
+                "popularCities": [
+                    {
+                        "cityImage": "https://images.unsplash.com/photo-1581430872221-d1cfed785922?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+                        "cityName": "Londres",
+                        "countryImage": "",
+                        "countryName": "Reino Unido"
+                    },
+                    {
+                        "cityImage": "https://images.unsplash.com/photo-1549144511-f099e773c147?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+                        "cityName": "Paris",
+                        "countryImage": "",
+                        "countryName": "França"
+                    },
+                    {
+                        "cityImage": "https://images.unsplash.com/photo-1604579803699-127581deabdf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+                        "cityName": "Roma",
+                        "countryImage": "",
+                        "countryName": "Itália"
+                    },
+                    {
+                        "cityImage": "https://images.unsplash.com/photo-1592906209472-a36b1f3782ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80",
+                        "cityName": "Praga",
+                        "countryImage": "",
+                        "countryName": "República Tcheca"
+                    },
+                    {
+                        "cityImage": "https://images.unsplash.com/photo-1629544382106-a6296a5b6a9c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=564&q=80",
+                        "cityName": "Amsterdâ",
+                        "countryImage": "",
+                        "countryName": "Holanda"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "asia",
+            "uid": "continent-asia",
+            "image": "https://images.unsplash.com/photo-1545659705-c769b5c3d132?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "data": {
+                "title": "Ásia",
+                "subtitle": "O maior continente em área terrestre do mundo.",
+                "description": "Na Ásia são encontradas algumas das montanhas mais altas do mundo; os rios mais extensos; os maiores desertos, planícies e planaltos; as selvas e florestas mais densas. A altitude máxima e a mínima está localizada na Ásia. O monte Everest, a altitude máxima do planeta, está localizada a 8 848 m acima do nível do mar; ao longo da linha fronteiriça da República Democrática Federal do Nepal com a região autônoma chinesa do Tibete. O litoral do mar Morto, a planície de menor altitude do mundo, estão localizadas a 396 m abaixo do nível do mar, na região fronteiriça do Estado de Israel com o Reino Hashemita da Jordânia.",
+                "countryNumbers": 50,
+                "mostUsedLanguages": 60,
+                "cityNumbers": 27,
+                "popularCities": [
+                    {
+                        "cityImage": "https://images.unsplash.com/photo-1576788369575-4ab045b9287e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=682&q=80",
+                        "cityName": "Hong Kong",
+                        "countryImage": "",
+                        "countryName": "China"
+                    },
+                    {
+                        "cityImage": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1247&q=80",
+                        "cityName": "Bangkok",
+                        "countryImage": "",
+                        "countryName": "Tailândia"
+                    },
+                    {
+                        "cityImage": "https://images.unsplash.com/photo-1587474260584-136574528ed5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+                        "cityName": "Delhi",
+                        "countryImage": "",
+                        "countryName": "Índia"
+                    },
+                    {
+                        "cityImage": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+                        "cityName": "Tóquio",
+                        "countryImage": "",
+                        "countryName": "Japão"
+                    }
+                ]
+            }
+        }
+    ]
+}
